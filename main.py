@@ -1,12 +1,16 @@
+"""First-stage retriever service.
+
+Scores documents in data/ against a query using TF-IDF + cosine similarity,
+then filters results down to documents the given role is authorized to view.
+Fully local (scikit-learn), no cloud services or external APIs.
+"""
+
 from pathlib import Path
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 DATA_DIR = Path(__file__).parent / "data"
-
-user_query = "What are the rules for data retention and deletion?"
-user_role = "legal"
 
 
 def _load_documents():
@@ -30,7 +34,7 @@ def _load_documents():
     return documents
 
 
-def retriever():
+def retrieve(user_query: str, user_role: str) -> list[dict]:
     """Rank documents by relevance to user_query, then re-rank by user_role access.
 
     1. Score every document against user_query using TF-IDF + cosine similarity.
@@ -65,9 +69,12 @@ def retriever():
 
 
 def main():
+    user_query = "What are the rules for data retention and deletion?"
+    user_role = "legal"
+
     print(f"Query: {user_query!r}")
     print(f"Role:  {user_role!r}\n")
-    for rank, result in enumerate(retriever(), start=1):
+    for rank, result in enumerate(retrieve(user_query, user_role), start=1):
         print(f"{rank}. [{result['score']:.4f}] {result['path']}  (roles: {', '.join(result['authorized_roles'])})")
 
 

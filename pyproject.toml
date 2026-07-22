@@ -1,5 +1,5 @@
 [project]
-name = "user-input-handler"
+name = "first-stage-retrieval-service"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
