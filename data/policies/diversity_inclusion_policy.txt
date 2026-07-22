@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-HR-011
+Authorized Roles: all_employees, hr, executive
+
+---
+DIVERSITY, EQUITY & INCLUSION POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. COMMITMENT
+Acme Fictional Corp is committed to fostering an inclusive workplace free
+from discrimination based on protected characteristics.
+
+2. HIRING PRACTICES
+Job postings and interview panels are reviewed for fictional bias-mitigation
+compliance.
+
+3. TRAINING
+All employees complete annual DEI training (fictional: 2 hours/year).
+
+4. REPORTING
+Concerns may be raised confidentially with HR or the fictional ethics hotline.
+
+This is a general policy accessible to all employees.

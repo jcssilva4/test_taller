@@ -1,0 +1,26 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-FIN-003
+Authorized Roles: all_employees, finance, hr
+
+---
+EXPENSE REIMBURSEMENT POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. ELIGIBLE EXPENSES
+- Travel (airfare, lodging, ground transportation)
+- Client meals (up to $75/person, fictional limit)
+- Conference registration fees
+
+2. SUBMISSION PROCESS
+Employees must submit expense reports within 30 days via the internal portal
+(fictional: portal.acmefictional.example).
+
+3. APPROVAL WORKFLOW
+Reports under $500 require manager approval only.
+Reports over $500 require Finance department approval.
+
+4. NON-REIMBURSABLE ITEMS
+Personal entertainment, alcohol beyond reasonable client engagement limits,
+and traffic/parking fines are not reimbursable.
+
+This is a general policy accessible to all employees.

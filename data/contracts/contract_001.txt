@@ -1,0 +1,34 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Service Contract
+Document ID: CONTRACT-001
+Authorized Roles: legal, executive, contract_manager
+
+---
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of January 15, 2026, between:
+
+Party A: Acme Fictional Corp ("Client")
+Address: 123 Test Ave, Sampleville, ST 00000
+
+Party B: Sample Vendor Solutions LLC ("Vendor")
+Address: 456 Placeholder Blvd, Mockcity, ST 00000
+
+1. SCOPE OF SERVICES
+Vendor agrees to provide software consulting services as described in Exhibit A.
+
+2. TERM
+This Agreement shall commence on February 1, 2026 and continue for 12 months.
+
+3. COMPENSATION
+Client agrees to pay Vendor a total sum of $85,000.00, payable in monthly installments of $7,083.33.
+
+4. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of proprietary information disclosed during the term of this Agreement.
+
+5. TERMINATION
+Either party may terminate this Agreement with 30 days written notice.
+
+Signed,
+[Fictional Signature - Client Representative]
+[Fictional Signature - Vendor Representative]

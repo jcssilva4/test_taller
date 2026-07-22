@@ -1,0 +1,22 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Trademark Registration Record
+Document ID: LEGAL-TM-005
+Authorized Roles: legal, executive, marketing
+
+---
+TRADEMARK REGISTRATION RECORD (FICTIONAL)
+
+Mark: "FictionalBrand" (word mark)
+Fictional Registration No.: TM-2026-004471
+Jurisdiction: Sample Intellectual Property Office
+Filing Date: February 3, 2026
+Status: Pending Examination
+
+CLASSES
+Class 9: Software
+Class 42: SaaS services
+
+RENEWAL
+Renewal required every 10 years (fictional jurisdiction rule).
+
+CONFIDENTIAL: Legal and marketing leadership only.

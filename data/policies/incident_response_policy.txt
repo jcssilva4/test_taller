@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-SEC-012
+Authorized Roles: it_admin, security, executive
+
+---
+INCIDENT RESPONSE POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. INCIDENT CLASSIFICATION
+Severity levels: Low, Medium, High, Critical (fictional definitions).
+
+2. RESPONSE TEAM
+Fictional Incident Response Team (IRT) consists of Security, IT Admin, and
+Legal representatives.
+
+3. RESPONSE TIMELINE
+Critical incidents: containment within 1 hour (fictional SLA).
+High incidents: containment within 4 hours.
+
+4. POST-INCIDENT REVIEW
+A root-cause analysis report must be completed within 5 business days.
+
+RESTRICTED: IT Admin, Security, and Executive leadership only.

@@ -1,0 +1,21 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Board Resolution
+Document ID: LEGAL-BOARD-007
+Authorized Roles: executive, legal, board_member
+
+---
+BOARD RESOLUTION NO. 007 (FICTIONAL)
+
+Acme Fictional Corp
+Adopted: April 20, 2026
+
+RESOLVED, that the Board of Directors approves the fictional acquisition
+term sheet with Sample Startup Technologies Inc, subject to satisfactory
+completion of due diligence.
+
+FURTHER RESOLVED, that the CFO (fictional: Jamie K. Sample) is authorized
+to negotiate final terms not to exceed $22,000,000.00.
+
+Approved unanimously by the Board (fictional vote: 7-0).
+
+CONFIDENTIAL: Board members and executive leadership only.

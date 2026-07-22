@@ -1,0 +1,25 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Corporate Loan Summary
+Document ID: FIN-LOAN-2026-01
+Authorized Roles: finance, executive, legal
+
+---
+CORPORATE LOAN AGREEMENT SUMMARY (FICTIONAL)
+
+Lender: Sample National Bank (fictional)
+Borrower: Acme Fictional Corp
+
+LOAN TERMS
+Principal: $2,500,000.00
+Interest Rate: 6.25% fixed
+Term: 7 years
+Monthly Payment: $37,120.00 (fictional amortization)
+
+COVENANTS
+Maintain minimum current ratio of 1.5
+Maintain debt-to-equity ratio below 2.0
+
+COLLATERAL
+Secured by fictional equipment and accounts receivable.
+
+CONFIDENTIAL: Finance, legal, and executive leadership only.

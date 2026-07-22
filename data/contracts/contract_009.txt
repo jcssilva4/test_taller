@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Distribution Agreement
+Document ID: CONTRACT-009
+Authorized Roles: legal, executive, sales_ops
+
+---
+DISTRIBUTION AGREEMENT
+
+Manufacturer: Acme Fictional Corp
+Distributor: Sample Regional Distributors LLC (fictional)
+
+1. TERRITORY
+Exclusive distribution rights within the fictional Northern Sample Region.
+
+2. MINIMUM PURCHASE
+Distributor commits to minimum annual purchase of $500,000.00.
+
+3. PRICING
+Wholesale pricing per fictional price list Exhibit B, reviewed annually.
+
+4. TERM
+2 years with automatic 1-year renewals absent 90-day notice.
+
+[Fictional Signature Block]

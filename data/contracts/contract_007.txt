@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Partnership Agreement
+Document ID: CONTRACT-007
+Authorized Roles: legal, executive
+
+---
+STRATEGIC PARTNERSHIP AGREEMENT
+
+Party A: Acme Fictional Corp
+Party B: Sample Innovations Group (fictional)
+
+1. PURPOSE
+Joint development of a fictional co-branded product line.
+
+2. REVENUE SHARE
+60/40 split in favor of Party A on net revenue from joint product sales.
+
+3. EXCLUSIVITY
+Party B agrees not to partner with direct competitors for the term of this Agreement.
+
+4. TERM
+3 years, renewable by mutual written consent.
+
+[Fictional Signature Block]

@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-FIN-009
+Authorized Roles: all_employees, finance, hr
+
+---
+BUSINESS TRAVEL POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. BOOKING
+All travel must be booked through the fictional corporate travel portal
+(travel.acmefictional.example).
+
+2. CLASS OF SERVICE
+Economy class for flights under 6 hours; premium economy permitted for
+longer fictional international flights.
+
+3. LODGING
+Hotel budget: up to $220/night in major fictional metro areas.
+
+4. PER DIEM
+Meal per diem: $65/day (fictional), no receipts required under $75.
+
+This is a general policy accessible to all employees.

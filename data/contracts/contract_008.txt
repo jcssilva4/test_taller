@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Non-Compete Agreement
+Document ID: CONTRACT-008
+Authorized Roles: hr, legal, executive
+
+---
+NON-COMPETE AND NON-SOLICITATION AGREEMENT
+
+Employee: Taylor Q. Sample (fictional)
+Employer: Acme Fictional Corp
+
+1. NON-COMPETE
+Employee agrees not to work for a directly competing fictional firm within
+50 miles for 12 months post-employment.
+
+2. NON-SOLICITATION
+Employee agrees not to solicit Acme Fictional Corp clients or employees for
+18 months post-employment.
+
+3. CONSIDERATION
+$10,000 one-time payment in exchange for these covenants.
+
+[Fictional Signature Block]

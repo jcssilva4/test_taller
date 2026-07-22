@@ -1,0 +1,30 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Employment Contract
+Document ID: CONTRACT-002
+Authorized Roles: hr, legal, executive
+
+---
+EMPLOYMENT AGREEMENT
+
+Employee Name: Jordan T. Sample (fictional)
+Position: Senior Software Engineer
+Start Date: March 1, 2026
+Base Salary: $135,000.00 annually
+Employee ID: EMP-4821 (fictional)
+
+1. DUTIES
+Employee shall perform duties as assigned by the Engineering Department.
+
+2. COMPENSATION AND BENEFITS
+- Base salary paid bi-weekly
+- Annual bonus target: 10% of base salary
+- Stock options: 2,000 units vesting over 4 years
+
+3. NON-COMPETE
+Employee agrees not to engage in competing business activities for 12 months post-termination within the same market segment.
+
+4. CONFIDENTIALITY
+Employee acknowledges access to trade secrets and agrees to non-disclosure obligations indefinitely.
+
+[Fictional Signature - Employee]
+[Fictional Signature - HR Representative]

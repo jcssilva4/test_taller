@@ -1,0 +1,27 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Data Breach Incident Report
+Document ID: LEGAL-INCIDENT-003
+Authorized Roles: legal, security, executive
+
+---
+DATA BREACH INCIDENT REPORT (FICTIONAL)
+
+Incident Date: June 12, 2026 (fictional)
+Detected By: Fictional SIEM alert
+Systems Affected: Customer support ticketing system (fictional)
+
+SUMMARY
+Unauthorized access detected to a fictional support database containing
+approximately 1,200 fictional customer email addresses. No payment data
+was affected (fictional test scenario).
+
+RESPONSE ACTIONS
+1. Access revoked within 2 hours (fictional).
+2. Affected fictional customers notified within 72 hours.
+3. Forensic review completed by Sample Security Consultants (fictional).
+
+LEGAL ASSESSMENT
+Notification obligations under fictional FDPR triggered; regulator notified
+on June 14, 2026.
+
+CONFIDENTIAL: Legal, security, and executive leadership only.

@@ -1,0 +1,27 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-COC-001
+Authorized Roles: all_employees, hr, executive
+
+---
+CODE OF CONDUCT (FICTIONAL - Acme Fictional Corp)
+
+1. PURPOSE
+This policy outlines expected standards of behavior for all employees.
+
+2. WORKPLACE CONDUCT
+Employees must treat colleagues with respect and avoid discrimination or harassment
+of any kind.
+
+3. CONFLICTS OF INTEREST
+Employees must disclose any personal or financial interests that could conflict
+with company duties.
+
+4. USE OF COMPANY RESOURCES
+Company equipment and systems are to be used primarily for business purposes.
+
+5. REPORTING VIOLATIONS
+Employees should report violations to HR or via the anonymous ethics hotline
+(fictional: 1-800-555-0100).
+
+This is a general policy accessible to all employees.

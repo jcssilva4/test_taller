@@ -1,0 +1,17 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Vendor Payment Schedule
+Document ID: FIN-VENDOR-PAY-2026-Q2
+Authorized Roles: finance, procurement
+
+---
+VENDOR PAYMENT SCHEDULE - Q2 2026 (FICTIONAL)
+
+Vendor (fictional)          | Invoice #     | Due Date   | Amount
+Sample Components Ltd       | INV-88214     | 2026-04-15 | $42,500.00
+Sample Software Inc         | INV-77031     | 2026-05-01 | $120,000.00
+Sample Facilities Services  | INV-90112     | 2026-05-10 | $6,200.00
+Sample Ad Network           | INV-65590     | 2026-06-05 | $12,300.00
+
+TOTAL SCHEDULED PAYMENTS: $181,000.00
+
+CONFIDENTIAL: Finance and procurement personnel only.

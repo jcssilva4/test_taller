@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Merger & Acquisition Term Sheet
+Document ID: CONTRACT-010
+Authorized Roles: executive, legal, finance
+
+---
+TERM SHEET (NON-BINDING, FICTIONAL)
+
+Acquirer: Acme Fictional Corp
+Target: Sample Startup Technologies Inc (fictional)
+
+1. TRANSACTION STRUCTURE
+Acquisition of 100% of outstanding shares for $22,000,000.00 (fictional valuation).
+
+2. CONSIDERATION
+70% cash, 30% Acquirer stock, subject to 12-month escrow of 15%.
+
+3. CONDITIONS PRECEDENT
+Satisfactory completion of due diligence and regulatory approval.
+
+4. EXCLUSIVITY
+Target agrees to a 45-day exclusivity period.
+
+CONFIDENTIAL: Restricted to executive, legal, and finance leadership only.

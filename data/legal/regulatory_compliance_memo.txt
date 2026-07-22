@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Regulatory Compliance Memo
+Document ID: LEGAL-COMPLIANCE-012
+Authorized Roles: legal, executive, compliance_officer
+
+---
+REGULATORY COMPLIANCE MEMO (FICTIONAL)
+
+Subject: Fictional Data Protection Regulation (FDPR) Readiness Assessment
+
+SUMMARY
+Legal has reviewed the company's data handling practices against the
+fictional FDPR requirements effective September 2026.
+
+GAPS IDENTIFIED
+1. Data retention schedule not formally documented.
+2. Cross-border data transfer clauses missing from 2 vendor contracts.
+3. Breach notification procedure needs 72-hour SLA update.
+
+REMEDIATION PLAN
+Legal and IT Security to jointly close gaps by August 2026 (fictional deadline).
+
+CONFIDENTIAL: Legal, compliance, and executive leadership only.

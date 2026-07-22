@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-HR-004
+Authorized Roles: all_employees, hr, executive
+
+---
+REMOTE WORK POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. ELIGIBILITY
+Employees in good standing may request remote work arrangements subject
+to manager approval.
+
+2. EXPECTATIONS
+Remote employees must be available during core hours (10am-3pm local time,
+fictional).
+
+3. EQUIPMENT
+Company will provide a laptop and one-time $300 fictional home-office stipend.
+
+4. SECURITY REQUIREMENTS
+Remote employees must use company VPN and enable full-disk encryption.
+
+This is a general policy accessible to all employees.

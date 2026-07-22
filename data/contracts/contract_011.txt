@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Maintenance Service Contract
+Document ID: CONTRACT-011
+Authorized Roles: legal, facilities, procurement
+
+---
+MAINTENANCE SERVICE CONTRACT
+
+Client: Acme Fictional Corp
+Provider: Sample Facilities Services Co (fictional)
+
+1. SCOPE
+HVAC, electrical, and general facilities maintenance for HQ building.
+
+2. FEES
+$6,200/month flat fee, plus parts at cost + 10%.
+
+3. RESPONSE TIME
+Emergency response within 4 hours (fictional SLA).
+
+4. TERM
+1 year, auto-renewing unless cancelled with 60 days notice.
+
+[Fictional Signature Block]

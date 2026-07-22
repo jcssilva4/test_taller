@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Lease Agreement
+Document ID: CONTRACT-006
+Authorized Roles: legal, facilities, executive
+
+---
+COMMERCIAL LEASE AGREEMENT
+
+Landlord: Sample Properties REIT (fictional)
+Tenant: Acme Fictional Corp
+
+1. PREMISES
+Office space at 789 Fictional Plaza, Suite 400, Sampleville, ST 00000.
+
+2. TERM
+5 years, commencing May 1, 2026.
+
+3. RENT
+$18,500/month, with 3% annual escalation.
+
+4. SECURITY DEPOSIT
+$37,000.00 (fictional), refundable upon lease termination pending inspection.
+
+[Fictional Signature Block]

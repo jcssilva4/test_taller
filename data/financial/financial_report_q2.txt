@@ -1,0 +1,30 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Quarterly Financial Report
+Document ID: FIN-Q2-2026
+Authorized Roles: finance, executive, auditor
+
+---
+QUARTERLY FINANCIAL SUMMARY - Q2 2026 (FICTIONAL)
+
+Company: Acme Fictional Corp
+
+REVENUE
+Total Revenue: $4,610,000.00
+Product Sales: $3,340,000.00
+Service Revenue: $1,270,000.00
+
+EXPENSES
+Operating Expenses: $2,950,000.00
+Payroll: $1,980,000.00
+R&D: $560,000.00
+Marketing: $410,000.00
+
+NET INCOME
+Gross Profit: $1,660,000.00
+Net Income (after tax): $1,105,000.00
+
+BANK ACCOUNT SUMMARY (fictional test values)
+Operating Account (****4521): $748,220.10
+Reserve Account (****7789): $1,340,500.00
+
+CONFIDENTIAL: Do not distribute outside authorized finance personnel.

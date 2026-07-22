@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Tax Filing Summary
+Document ID: FIN-TAX-2025
+Authorized Roles: finance, executive, auditor
+
+---
+CORPORATE TAX FILING SUMMARY - FY2025 (FICTIONAL)
+
+Company: Acme Fictional Corp
+Fictional Tax ID: 00-0000000
+
+TAXABLE INCOME
+Gross Income: $16,200,000.00
+Deductions: $4,100,000.00
+Taxable Income: $12,100,000.00
+
+TAX LIABILITY
+Federal (fictional rate 21%): $2,541,000.00
+State (fictional rate 6%): $726,000.00
+Total Tax Liability: $3,267,000.00
+
+FILING STATUS: Filed on time, March 15, 2026 (fictional).
+
+CONFIDENTIAL: Finance and audit personnel only.

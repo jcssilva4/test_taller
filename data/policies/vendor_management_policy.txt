@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-PROC-010
+Authorized Roles: procurement, finance, executive
+
+---
+VENDOR MANAGEMENT POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. VENDOR ONBOARDING
+New vendors must complete a fictional due diligence questionnaire and
+background check before contract execution.
+
+2. CONTRACT REVIEW
+All vendor contracts over $50,000 require Legal and Finance review.
+
+3. PERFORMANCE REVIEW
+Vendors are reviewed annually against fictional SLAs; underperforming
+vendors placed on a corrective action plan.
+
+4. CONFLICT OF INTEREST
+Employees must disclose any personal relationship with a vendor.
+
+RESTRICTED: Procurement, Finance, and Executive leadership only.

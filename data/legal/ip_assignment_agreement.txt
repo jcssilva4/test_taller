@@ -1,0 +1,22 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Intellectual Property Assignment Agreement
+Document ID: LEGAL-IP-001
+Authorized Roles: legal, executive, engineering_lead
+
+---
+INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT (TEMPLATE)
+
+Assignor: [Employee/Contractor Name]
+Assignee: Acme Fictional Corp
+
+1. ASSIGNMENT
+Assignor irrevocably assigns all right, title, and interest in inventions,
+designs, and works created during engagement with the Company.
+
+2. MORAL RIGHTS WAIVER
+Assignor waives moral rights to the fullest extent permitted by fictional law.
+
+3. FURTHER ASSURANCES
+Assignor agrees to execute additional documents as needed to perfect assignment.
+
+[Fictional Signature Block]

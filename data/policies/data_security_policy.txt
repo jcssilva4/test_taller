@@ -1,0 +1,30 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-SEC-002
+Authorized Roles: it_admin, security, executive
+
+---
+DATA SECURITY POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. PURPOSE
+Establishes requirements for protecting company and customer data.
+
+2. ACCESS CONTROL
+- Access to systems is granted on a least-privilege basis.
+- All access requests must be approved by IT Security.
+- Role-based access control (RBAC) governs document and system permissions.
+
+3. DATA CLASSIFICATION
+- Public: No restrictions.
+- Internal: Employees only.
+- Confidential: Named roles only (e.g., finance, legal, hr).
+- Restricted: Named individuals only, logged access.
+
+4. INCIDENT RESPONSE
+Any suspected data breach must be reported to the Security team within 1 hour
+of discovery (fictional SLA).
+
+5. ENCRYPTION
+All confidential and restricted data must be encrypted at rest and in transit.
+
+RESTRICTED: Distribution limited to IT Admin, Security, and Executive roles.

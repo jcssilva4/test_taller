@@ -1,0 +1,25 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Annual Budget Plan
+Document ID: FIN-BUDGET-2026
+Authorized Roles: finance, executive
+
+---
+ANNUAL BUDGET PLAN - FY2026 (FICTIONAL)
+
+Company: Acme Fictional Corp
+
+DEPARTMENT ALLOCATIONS
+Engineering: $6,200,000.00
+Sales & Marketing: $3,400,000.00
+Operations: $1,800,000.00
+HR: $650,000.00
+IT & Security: $920,000.00
+
+CAPITAL EXPENDITURE
+Data center upgrade: $1,200,000.00
+Office renovation: $400,000.00
+
+CONTINGENCY RESERVE
+$500,000.00 (fictional, 3% of total budget)
+
+CONFIDENTIAL: Finance and executive leadership only.

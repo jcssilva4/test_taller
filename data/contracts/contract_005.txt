@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Consulting Agreement
+Document ID: CONTRACT-005
+Authorized Roles: legal, executive, contract_manager
+
+---
+CONSULTING AGREEMENT
+
+Consultant: Morgan P. Fictional (independent contractor)
+Client: Acme Fictional Corp
+
+1. SERVICES
+Consultant will provide strategic advisory services, 20 hours/month.
+
+2. FEES
+$250/hour, invoiced monthly, net 30 payment terms.
+
+3. INDEPENDENT CONTRACTOR STATUS
+Consultant is not an employee and is responsible for own taxes.
+
+4. IP ASSIGNMENT
+All work product created under this Agreement is assigned to Client.
+
+[Fictional Signature Block]

@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Litigation Case Notes
+Document ID: LEGAL-CASE-0047
+Authorized Roles: legal, executive
+
+---
+CASE NOTES - CASE NO. FICT-2026-0047
+
+Case Title: Acme Fictional Corp v. Sample Competitor Inc.
+Court: Fictional District Court, Sample County
+Status: Active - Discovery Phase
+
+SUMMARY
+Plaintiff alleges breach of a fictional licensing agreement dated June 2025.
+Damages sought: $2,300,000.00 (fictional estimate).
+
+KEY DATES
+- Filing Date: January 10, 2026
+- Discovery Deadline: August 15, 2026
+- Trial Date (tentative): February 2027
+
+PRIVILEGED ATTORNEY WORK PRODUCT
+Internal strategy notes indicate settlement range of $400,000-$600,000 (fictional).
+Do not disclose outside Legal department.

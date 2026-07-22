@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Whistleblower Complaint Record
+Document ID: LEGAL-WB-002
+Authorized Roles: legal, executive, compliance_officer
+
+---
+WHISTLEBLOWER COMPLAINT RECORD (FICTIONAL)
+
+Complaint ID: WB-2026-002
+Received Via: Anonymous ethics hotline (fictional)
+Date Received: May 8, 2026
+
+SUMMARY
+Fictional complainant alleges a manager pressured team members to misstate
+project completion percentages in status reports.
+
+INVESTIGATION STATUS
+Assigned to Legal and Compliance for joint investigation. Interviews scheduled
+with 4 fictional team members.
+
+CONFIDENTIALITY NOTICE
+Complainant identity protected per fictional whistleblower policy. Access
+restricted to Legal and Compliance leadership only.

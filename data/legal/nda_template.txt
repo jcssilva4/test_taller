@@ -1,0 +1,33 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Non-Disclosure Agreement
+Document ID: LEGAL-NDA-001
+Authorized Roles: legal, executive
+
+---
+MUTUAL NON-DISCLOSURE AGREEMENT (TEMPLATE)
+
+This Agreement is made between Acme Fictional Corp ("Disclosing Party") and
+[Counterparty Name] ("Receiving Party").
+
+1. PURPOSE
+The parties wish to explore a potential business relationship and may disclose
+confidential information to one another.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+Any business, technical, or financial information disclosed by either party,
+whether orally or in writing, marked confidential or reasonably understood
+to be confidential.
+
+3. OBLIGATIONS
+The Receiving Party agrees to:
+(a) hold the Confidential Information in strict confidence;
+(b) not disclose it to third parties without prior written consent;
+(c) use it solely for evaluating the potential business relationship.
+
+4. TERM
+This Agreement remains in effect for 3 years from the Effective Date.
+
+5. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Sample, fictional jurisdiction.
+
+[Fictional Signature Block]

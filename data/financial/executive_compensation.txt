@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Executive Compensation Report
+Document ID: FIN-EXEC-COMP-2026
+Authorized Roles: executive, hr, board_member
+
+---
+EXECUTIVE COMPENSATION SUMMARY - FY2026 (FICTIONAL)
+
+CEO (fictional: Sam R. Placeholder)
+Base Salary: $450,000.00
+Bonus Target: 100% of base
+Equity Grant: 50,000 RSUs vesting over 4 years
+
+CFO (fictional: Jamie K. Sample)
+Base Salary: $340,000.00
+Bonus Target: 75% of base
+Equity Grant: 30,000 RSUs vesting over 4 years
+
+COO (fictional: Riley T. Mock)
+Base Salary: $325,000.00
+Bonus Target: 70% of base
+Equity Grant: 28,000 RSUs vesting over 4 years
+
+CONFIDENTIAL: Executive, HR leadership, and board members only.

@@ -1,0 +1,25 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Software License Agreement
+Document ID: CONTRACT-004
+Authorized Roles: legal, it_admin, executive
+
+---
+SOFTWARE LICENSE AGREEMENT
+
+Licensor: Sample Software Inc (fictional)
+Licensee: Acme Fictional Corp
+
+1. GRANT OF LICENSE
+Licensor grants a non-exclusive, non-transferable license to use "FictionalERP v9"
+for up to 500 seats.
+
+2. FEES
+Annual license fee: $120,000.00, invoiced yearly.
+
+3. SUPPORT
+Standard support included; premium support available at $15,000/year.
+
+4. LIMITATION OF LIABILITY
+Licensor's liability capped at fees paid in the preceding 12 months.
+
+[Fictional Signature Block]

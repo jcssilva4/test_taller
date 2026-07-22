@@ -1,0 +1,26 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Investor Relations Report
+Document ID: FIN-IR-2026-01
+Authorized Roles: executive, finance, board_member
+
+---
+INVESTOR REPORT - H1 2026 (FICTIONAL)
+
+Company: Acme Fictional Corp
+
+KEY METRICS
+ARR: $18,400,000.00 (fictional)
+YoY Growth: 22%
+Gross Margin: 68%
+Cash Runway: 26 months (fictional estimate)
+
+CAP TABLE SUMMARY (fictional)
+Founders: 42%
+Series A Investors: 28%
+Series B Investors: 18%
+Employee Option Pool: 12%
+
+UPCOMING FUNDRAISE
+Target Series C raise: $30,000,000.00, targeted Q4 2026 (fictional).
+
+CONFIDENTIAL: Board and executive distribution only.

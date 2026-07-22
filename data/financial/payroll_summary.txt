@@ -1,0 +1,29 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Payroll Summary
+Document ID: FIN-PAYROLL-2026-03
+Authorized Roles: finance, hr, executive
+
+---
+PAYROLL SUMMARY - MARCH 2026 (FICTIONAL)
+
+Department: Engineering
+Total Employees: 42 (fictional)
+Total Payroll Cost: $612,500.00
+
+Department: Sales
+Total Employees: 18 (fictional)
+Total Payroll Cost: $298,400.00
+
+Department: HR
+Total Employees: 6 (fictional)
+Total Payroll Cost: $87,200.00
+
+Sample Employee Record (fictional):
+Name: Alex R. Placeholder
+Employee ID: EMP-1123
+Gross Pay: $9,166.67
+Deductions: $2,450.00
+Net Pay: $6,716.67
+Bank Account (masked): ****3390
+
+CONFIDENTIAL: Payroll data restricted to Finance and HR roles only.

@@ -1,0 +1,22 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Employment Dispute Case Notes
+Document ID: LEGAL-CASE-0048
+Authorized Roles: legal, hr, executive
+
+---
+CASE NOTES - CASE NO. FICT-2026-0048
+
+Case Title: Fictional Former Employee v. Acme Fictional Corp
+Claim: Alleged wrongful termination and unpaid overtime.
+Status: Pre-litigation, mediation scheduled.
+
+SUMMARY
+Former employee (fictional) alleges termination was retaliatory following
+a workplace complaint. Damages sought: $180,000.00 (fictional estimate).
+
+KEY DATES
+Mediation Date: September 5, 2026 (fictional)
+
+PRIVILEGED ATTORNEY WORK PRODUCT
+Legal recommends settlement offer of $45,000 (fictional) to avoid litigation costs.
+Do not disclose outside Legal/HR leadership.

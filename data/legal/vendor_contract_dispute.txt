@@ -1,0 +1,20 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Vendor Contract Dispute Notes
+Document ID: LEGAL-CASE-0049
+Authorized Roles: legal, procurement, executive
+
+---
+DISPUTE NOTES - CASE NO. FICT-2026-0049
+
+Parties: Acme Fictional Corp vs. Sample Components Ltd (fictional)
+Dispute: Alleged failure to meet quality standards under Contract CONTRACT-003.
+
+SUMMARY
+Defect rate reported at 2.1%, exceeding the 0.5% threshold specified in
+Section 4 of the Supply Agreement. Client seeks $85,000 in fictional damages.
+
+STATUS
+In negotiation; formal demand letter sent June 30, 2026 (fictional).
+
+PRIVILEGED ATTORNEY WORK PRODUCT
+Legal recommends pursuing contractual remedy before litigation.

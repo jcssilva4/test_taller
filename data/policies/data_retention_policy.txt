@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-SEC-008
+Authorized Roles: it_admin, security, legal, executive
+
+---
+DATA RETENTION AND DISPOSAL POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. RETENTION SCHEDULES (fictional)
+- Financial records: 7 years
+- Employee records: 7 years post-termination
+- Customer support logs: 2 years
+- Security logs: 1 year
+
+2. DISPOSAL METHOD
+Records must be securely destroyed (shredding, secure wipe) upon expiration
+of retention period.
+
+3. LEGAL HOLD
+Records subject to litigation hold must not be destroyed regardless of
+retention schedule.
+
+RESTRICTED: IT Admin, Security, Legal, and Executive roles only.

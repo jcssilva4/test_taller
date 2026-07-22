@@ -1,0 +1,23 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-LEGAL-007
+Authorized Roles: legal, executive, compliance_officer
+
+---
+ANTI-BRIBERY AND ANTI-CORRUPTION POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. PROHIBITED CONDUCT
+Employees and agents may not offer, give, or accept bribes or improper
+payments in connection with company business.
+
+2. GIFTS AND ENTERTAINMENT
+Gifts over $100 (fictional threshold) must be reported to Compliance.
+
+3. THIRD-PARTY DUE DILIGENCE
+Agents and intermediaries must undergo anti-corruption vetting before
+engagement.
+
+4. REPORTING
+Suspected violations must be reported to the Compliance Officer immediately.
+
+CONFIDENTIAL: Restricted to Legal, Compliance, and Executive leadership.

@@ -1,0 +1,22 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Audit Findings
+Document ID: FIN-AUDIT-2025
+Authorized Roles: finance, executive, auditor
+
+---
+INTERNAL AUDIT FINDINGS - FY2025 (FICTIONAL)
+
+Scope: Accounts payable and procurement controls.
+
+FINDINGS
+1. Minor: 3 fictional invoices lacked secondary approval signatures.
+2. Moderate: Vendor onboarding process missing background check step.
+3. Low: Expense report retention policy not consistently followed.
+
+RECOMMENDATIONS
+Implement automated approval workflow; add vendor vetting checklist.
+
+MANAGEMENT RESPONSE
+Finance department to remediate findings by Q3 2026 (fictional commitment).
+
+CONFIDENTIAL: Finance and audit personnel only.

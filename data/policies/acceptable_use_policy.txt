@@ -1,0 +1,24 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-IT-006
+Authorized Roles: all_employees, it_admin, executive
+
+---
+ACCEPTABLE USE POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. PURPOSE
+Defines acceptable use of company IT systems, networks, and devices.
+
+2. PROHIBITED ACTIVITIES
+- Installing unauthorized software
+- Accessing company systems from unmanaged personal devices without approval
+- Sharing account credentials with others
+
+3. MONITORING
+Company reserves the right to monitor system usage for security purposes
+(fictional policy notice).
+
+4. ENFORCEMENT
+Violations may result in disciplinary action up to termination.
+
+This is a general policy accessible to all employees.

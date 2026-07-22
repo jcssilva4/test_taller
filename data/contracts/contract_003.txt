@@ -1,0 +1,27 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Vendor Supply Contract
+Document ID: CONTRACT-003
+Authorized Roles: legal, executive, procurement
+
+---
+SUPPLY AGREEMENT
+
+Buyer: Acme Fictional Corp
+Supplier: Sample Components Ltd (fictional)
+
+1. GOODS
+Supplier shall deliver 10,000 units of fictional widget model WX-200 monthly.
+
+2. PRICING
+Unit Price: $4.25. Total monthly value: $42,500.00.
+
+3. TERM
+24 months, beginning April 1, 2026.
+
+4. QUALITY STANDARDS
+Goods must meet ISO-fictional-9001 quality standards; defect rate under 0.5%.
+
+5. TERMINATION
+Breach of quality standards for 2 consecutive months permits termination.
+
+[Fictional Signature Block]

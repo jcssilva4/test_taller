@@ -1,0 +1,25 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Insurance Policy Contract
+Document ID: CONTRACT-012
+Authorized Roles: legal, finance, executive, risk_management
+
+---
+COMMERCIAL INSURANCE POLICY (FICTIONAL)
+
+Insurer: Sample Mutual Insurance Co (fictional)
+Insured: Acme Fictional Corp
+
+1. COVERAGE
+General liability, property, and cyber liability coverage.
+
+2. POLICY LIMITS
+General Liability: $5,000,000.00 aggregate
+Cyber Liability: $2,000,000.00 per incident
+
+3. PREMIUM
+Annual premium: $94,000.00, payable quarterly.
+
+4. DEDUCTIBLE
+$25,000 per claim (fictional).
+
+CONFIDENTIAL: Restricted distribution.

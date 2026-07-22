@@ -1,0 +1,22 @@
+[SYNTHETIC TEST DATA - NOT REAL]
+Document Type: Internal Company Policy
+Document ID: POLICY-HR-005
+Authorized Roles: all_employees, hr, executive
+
+---
+LEAVE OF ABSENCE POLICY (FICTIONAL - Acme Fictional Corp)
+
+1. TYPES OF LEAVE
+- Medical Leave (fictional: up to 12 weeks)
+- Parental Leave (fictional: up to 16 weeks paid)
+- Bereavement Leave (fictional: up to 5 days)
+
+2. REQUEST PROCESS
+Employees must submit a leave request via HR portal at least 2 weeks in
+advance, except for emergencies.
+
+3. JOB PROTECTION
+Employees on approved leave are entitled to reinstatement to an equivalent
+position (fictional policy terms).
+
+This is a general policy accessible to all employees.
